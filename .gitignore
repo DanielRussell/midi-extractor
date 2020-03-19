@@ -1,0 +1,8 @@
+# emacs backup files
+*~
+
+# midi files
+/data/*
+
+# Assorted saved output
+/output*
